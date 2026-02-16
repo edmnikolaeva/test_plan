@@ -8,7 +8,7 @@
 
 ---
 
-**TEST PLAN INCLUDES**
+**TEST PLAN INCLUDES:**
 - Test results  
 - Identifiers of failed test cases  
 - Test cases  
@@ -18,7 +18,7 @@
 - Expected results  
 - Actual results
 
-**WORKFLOW**
+**WORKFLOW:**
 - Develop the test plan
 - Execute tests on the web service to verify readiness for release
 - Update the test plan with identifiers of failed tests requiring remediation
