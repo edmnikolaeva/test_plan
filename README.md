@@ -1,4 +1,4 @@
-# Test Plan Examples for Hotel Booking Service
+# Test Plan Examples for Software Testing Documentation
 - This repository contains examples of test plans for system analysis and deployment readiness
 - The focus is on ensuring functional quality and verifying the operational readiness of web services before release
   
